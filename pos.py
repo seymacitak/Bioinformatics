@@ -1,3 +1,4 @@
+"""
 def find_position():
     dna = input("Enter a sequence: ")
     dna = dna.upper()
@@ -11,3 +12,12 @@ def find_position():
 
     
 print(find_position())
+
+"""
+
+a = "seyma"
+
+b = len(a)
+c = b + 2
+print(b)
+print(c)
